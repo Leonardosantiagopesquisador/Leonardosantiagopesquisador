@@ -5,7 +5,7 @@
 <hr>
 
 
-[![Gráfico de Atividades no GITHUB de Leonardo Santiago ](https://github-readme-activity-graph.cyclic.app/graph?username=Leonardosantiago.pesquisador&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Leonardosantiagopesquisador/github-readme-activity-graph)
+[![Gráfico de Atividades no GITHUB de Leonardo Santiago ](https://github-readme-activity-graph.cyclic.app/graph?username=Leonardosantiagopesquisador&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Leonardosantiagopesquisador/github-readme-activity-graph)
 
 
 <p align="center">
@@ -67,6 +67,6 @@
 <br>
 </div>
 
-![Snake animation](https://github.com/Leonardosantiago.pesquisador/Leonardosantiagopesquisador/blob/output/github-contribution-grid-snake.svg)&nbsp;
+![Snake animation](https://github.com/Leonardosantiagopesquisador/Leonardosantiagopesquisador/blob/output/github-contribution-grid-snake.svg)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9900&height=120&section=footer"/>
