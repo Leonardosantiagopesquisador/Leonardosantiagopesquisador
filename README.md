@@ -5,18 +5,18 @@
 <hr>
 
 
-[![Gráfico de Atividades no GITHUB de Leonardo Santiago ](https://github-readme-activity-graph.cyclic.app/graph?username=Leonardosantiago.pesquisador&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Leonardosantiago.pesquisador/github-readme-activity-graph)
+[![Gráfico de Atividades no GITHUB de Leonardo Santiago ](https://github-readme-activity-graph.cyclic.app/graph?username=Leonardosantiago.pesquisador&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/Leonardosantiagopesquisador/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonardosantiago.pesquisador&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Leonardosantiagopesquisador&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardosantiago.pesquisador&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Santiago github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardosantiago.pesquisador&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardosantiagopesquisador&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Santiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardosantiagopesquisador&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
@@ -63,10 +63,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leonardosantiago.pesquisador}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leonardosantiagopesquisador}/count.svg" /></p> 
 <br>
 </div>
 
-![Snake animation](https://github.com/Leonardosantiago.pesquisador/Leonardosantiago.pesquisador/blob/output/github-contribution-grid-snake.svg)&nbsp;
+![Snake animation](https://github.com/Leonardosantiago.pesquisador/Leonardosantiagopesquisador/blob/output/github-contribution-grid-snake.svg)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9900&height=120&section=footer"/>
